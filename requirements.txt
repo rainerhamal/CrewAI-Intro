@@ -1,0 +1,5 @@
+crewai
+CrewaAI[tools]
+python-dotenv
+duckduckgosearchrun
+streamlit
